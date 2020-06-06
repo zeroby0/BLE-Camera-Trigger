@@ -1,6 +1,6 @@
 # BLE Camera Trigger
 
-You can trigger camera capture on Android or iOS devices with an nRF-52DK with this code.
+You can trigger camera capture on Android devices with an nRF-52DK with this code.
 
 This is just a modification of the BLE_HID_Keyboard example to send '\n' on button press.
 Press Button-1 for capture. Read [this page](https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/samples/bluetooth/peripheral_hids_keyboard/README.html)
